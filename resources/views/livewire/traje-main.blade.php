@@ -22,7 +22,7 @@
               <thead class="bg-indigo-500 text-white">
                 <tr class="text-left text-xs font-bold  uppercase">
                   <td scope="col" class="px-6 py-3">ID</td>
-                  <td scope="col" class="px-6 py-3">Nombre </td>
+                  <td scope="col" class="px-6 py-3">Nodddddddmbre </td>
                   <td scope="col" class="px-6 py-3">Descripcin</td>
                   <td scope="col" class="px-6 py-3">Stock </td>
                   <td scope="col" class="px-6 py-3">Precio </td>
